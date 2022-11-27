@@ -1,0 +1,11 @@
+{
+  "name": "Zakaz",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js-selfbot": "^12.0.2"
+  },
+  "author": "Ma1ns",
+  "license": "MIT"
+}
